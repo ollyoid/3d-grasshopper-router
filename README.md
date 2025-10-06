@@ -15,5 +15,5 @@ between the start and end points
 - Collider to maintain a minimum distance between different paths
 - Anchor to keep the start and end points from moving
 - Solid to keep the points within the shape
-- Rod to sop the shape from being to bendy
+- Rod to stop the shape from being to bendy
 ![alt text](image-2.png)
